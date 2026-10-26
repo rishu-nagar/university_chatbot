@@ -1,0 +1,229 @@
+{
+  "_meta": {
+    "description": "DEMONSTRATION DATA ONLY — This dataset contains fictional university information created for project demonstration purposes. It does not represent any real university's policies, fees, or deadlines.",
+    "version": "1.0.0",
+    "last_updated": "2026-10-26"
+  },
+  "university": {
+    "name": "Aurora University (Demo)",
+    "tagline": "A fictional university for demonstration purposes"
+  },
+  "categories": [
+    {
+      "id": "admissions",
+      "name": "Admissions & Enrollment",
+      "icon": "🎓",
+      "faqs": [
+        {
+          "id": "adm-001",
+          "question": "What are the general admission requirements?",
+          "answer": "Applicants typically need a high school diploma or equivalent, standardized test scores, a personal statement, and letters of recommendation. Specific requirements vary by program. Please check the admissions office for current details.",
+          "keywords": ["admission", "requirements", "apply", "application", "enroll", "enrollment", "eligibility"]
+        },
+        {
+          "id": "adm-002",
+          "question": "How do I apply for admission?",
+          "answer": "Applications are submitted through the university's online portal. You will need to create an account, complete the application form, upload required documents, and pay the application fee. The admissions office can guide you through each step.",
+          "keywords": ["apply", "application", "how to apply", "online portal", "submit"]
+        },
+        {
+          "id": "adm-003",
+          "question": "What are the application deadlines?",
+          "answer": "Application deadlines vary by semester and program. Generally, fall semester applications are due in the spring, and spring semester applications are due in the fall. Please check the admissions website for the most current deadlines, as they are updated each academic year.",
+          "keywords": ["deadline", "due date", "when to apply", "last date", "application deadline"]
+        },
+        {
+          "id": "adm-004",
+          "question": "Is there an application fee?",
+          "answer": "Yes, there is typically an application fee. Fee waivers may be available for eligible students. Contact the admissions office for current fee amounts and waiver eligibility criteria.",
+          "keywords": ["application fee", "fee waiver", "cost to apply", "admission fee"]
+        },
+        {
+          "id": "adm-005",
+          "question": "What documents are needed for international student admission?",
+          "answer": "International applicants typically need translated academic transcripts, proof of English language proficiency (such as TOEFL or IELTS), a valid passport copy, financial documentation, and a completed international student application. Specific requirements should be confirmed with the international admissions office.",
+          "keywords": ["international", "foreign student", "TOEFL", "IELTS", "visa", "transcript", "overseas"]
+        }
+      ]
+    },
+    {
+      "id": "academics",
+      "name": "Academics & Programs",
+      "icon": "📚",
+      "faqs": [
+        {
+          "id": "acad-001",
+          "question": "What undergraduate programs are offered?",
+          "answer": "The university offers a range of undergraduate programs across multiple disciplines including Computer Science, Engineering, Business Administration, Arts & Humanities, Natural Sciences, and Social Sciences. Visit the academic catalog for a complete and current list of programs.",
+          "keywords": ["programs", "courses", "undergraduate", "bachelor", "majors", "departments", "degree"]
+        },
+        {
+          "id": "acad-002",
+          "question": "How do I register for classes?",
+          "answer": "Class registration is done through the student portal during designated registration periods. You will need to meet with your academic advisor before registration opens to plan your course schedule. The registrar's office publishes registration dates at the beginning of each semester.",
+          "keywords": ["register", "registration", "classes", "courses", "sign up", "enroll in classes"]
+        },
+        {
+          "id": "acad-003",
+          "question": "What is the grading system?",
+          "answer": "The university uses a standard letter grading system (A, B, C, D, F) with plus/minus modifiers. Grade point averages (GPA) are calculated on a 4.0 scale. Detailed grading policies and GPA calculation methods are available in the student handbook.",
+          "keywords": ["grades", "grading", "GPA", "marks", "score", "grade point", "transcript"]
+        },
+        {
+          "id": "acad-004",
+          "question": "How do I change my major?",
+          "answer": "To change your major, you should first meet with your current academic advisor and the advisor of the desired program. Then complete a Change of Major form available from the registrar's office. Approval depends on program availability and prerequisite completion.",
+          "keywords": ["change major", "switch program", "transfer department", "new major"]
+        },
+        {
+          "id": "acad-005",
+          "question": "What academic support services are available?",
+          "answer": "The university provides tutoring centers, writing labs, academic advising, study skills workshops, and peer mentoring programs. The library also offers research assistance and access to academic databases. Contact the Academic Success Center for more information.",
+          "keywords": ["tutoring", "academic help", "study help", "writing lab", "academic support", "mentoring"]
+        },
+        {
+          "id": "acad-006",
+          "question": "What is the attendance policy?",
+          "answer": "Attendance policies may vary by instructor and course. Generally, students are expected to attend all scheduled classes. Excessive absences may affect grades. Specific attendance requirements are outlined in each course syllabus.",
+          "keywords": ["attendance", "absent", "absence", "miss class", "skip class"]
+        }
+      ]
+    },
+    {
+      "id": "campus_life",
+      "name": "Campus Life & Housing",
+      "icon": "🏫",
+      "faqs": [
+        {
+          "id": "camp-001",
+          "question": "What housing options are available?",
+          "answer": "The university offers on-campus residence halls for first-year students and apartments for upperclassmen. Off-campus housing assistance is also available through the housing office. Room options typically include single, double, and suite-style configurations.",
+          "keywords": ["housing", "dormitory", "dorm", "residence", "accommodation", "room", "hostel", "living"]
+        },
+        {
+          "id": "camp-002",
+          "question": "What dining options are on campus?",
+          "answer": "Campus dining includes a main dining hall, several cafés, and food court options. Meal plans are available in various tiers to fit different needs and budgets. The dining services website lists hours, menus, and nutritional information.",
+          "keywords": ["dining", "food", "cafeteria", "meal plan", "eat", "restaurant", "canteen"]
+        },
+        {
+          "id": "camp-003",
+          "question": "What student clubs and organizations exist?",
+          "answer": "There are numerous student organizations spanning academic, cultural, athletic, and special interest areas. The Student Activities office maintains a directory of active clubs. Students can also start new organizations by following the chartering process.",
+          "keywords": ["clubs", "organizations", "activities", "student life", "extracurricular", "societies"]
+        },
+        {
+          "id": "camp-004",
+          "question": "What health and wellness services are provided?",
+          "answer": "The Student Health Center offers basic medical services, mental health counseling, and wellness programs. Emergency services are available 24/7. Health insurance information and requirements can be obtained from the health center.",
+          "keywords": ["health", "medical", "counseling", "mental health", "wellness", "doctor", "clinic"]
+        },
+        {
+          "id": "camp-005",
+          "question": "What sports and recreation facilities are available?",
+          "answer": "Campus recreation facilities include a fitness center, swimming pool, basketball and tennis courts, and outdoor sports fields. Intramural sports leagues and group fitness classes are offered each semester. A valid student ID provides access to all facilities.",
+          "keywords": ["sports", "gym", "fitness", "recreation", "swimming", "athletics", "exercise"]
+        }
+      ]
+    },
+    {
+      "id": "financial",
+      "name": "Financial Aid & Tuition",
+      "icon": "💰",
+      "faqs": [
+        {
+          "id": "fin-001",
+          "question": "What types of financial aid are available?",
+          "answer": "Financial aid options typically include scholarships, grants, work-study programs, and student loans. Eligibility varies based on factors such as academic merit, financial need, and program of study. The financial aid office can help identify options available to you.",
+          "keywords": ["financial aid", "scholarship", "grant", "loan", "funding", "money", "assistance"]
+        },
+        {
+          "id": "fin-002",
+          "question": "How do I apply for a scholarship?",
+          "answer": "Scholarship applications are typically submitted through the university's financial aid portal. Some scholarships are awarded automatically based on your admission application, while others require separate applications. Check the scholarship directory for available opportunities and their specific requirements.",
+          "keywords": ["scholarship", "merit", "award", "scholarship application", "free money"]
+        },
+        {
+          "id": "fin-003",
+          "question": "What are the payment plan options?",
+          "answer": "The university offers installment payment plans that allow students to spread tuition costs over the semester. Details about plan options, enrollment deadlines, and any associated fees are available through the bursar's office or student accounts portal.",
+          "keywords": ["payment plan", "installment", "pay tuition", "billing", "tuition payment"]
+        },
+        {
+          "id": "fin-004",
+          "question": "How does the tuition refund policy work?",
+          "answer": "Tuition refunds are based on the date of withdrawal relative to the start of the semester. Earlier withdrawals typically result in higher refund percentages. The specific refund schedule is published by the bursar's office each semester.",
+          "keywords": ["refund", "withdraw", "drop", "money back", "cancellation"]
+        }
+      ]
+    },
+    {
+      "id": "technology",
+      "name": "IT & Technology",
+      "icon": "💻",
+      "faqs": [
+        {
+          "id": "tech-001",
+          "question": "How do I access campus Wi-Fi?",
+          "answer": "Connect to the campus Wi-Fi network using your student credentials (university email and password). First-time setup instructions are available on the IT services website. If you experience connectivity issues, contact the IT help desk.",
+          "keywords": ["wifi", "wi-fi", "internet", "network", "connect", "wireless"]
+        },
+        {
+          "id": "tech-002",
+          "question": "What software is available to students?",
+          "answer": "Students have access to various software through the university's software portal, which may include productivity suites, development tools, design software, and statistical analysis packages. Some software is available for free or at discounted rates through educational licenses.",
+          "keywords": ["software", "programs", "tools", "license", "download", "microsoft", "adobe"]
+        },
+        {
+          "id": "tech-003",
+          "question": "How do I reset my student portal password?",
+          "answer": "You can reset your password through the 'Forgot Password' link on the student portal login page. You will need your student ID and registered email address. If you continue to have issues, visit the IT help desk with a valid photo ID.",
+          "keywords": ["password", "reset", "forgot password", "login", "locked out", "account"]
+        },
+        {
+          "id": "tech-004",
+          "question": "What computer labs are available on campus?",
+          "answer": "Multiple computer labs are available across campus, typically in the library, engineering building, and student center. Labs are equipped with desktop computers, printers, and scanners. Hours vary by location and are posted on the IT services website.",
+          "keywords": ["computer lab", "lab", "printing", "printer", "scanner", "computer access"]
+        }
+      ]
+    },
+    {
+      "id": "general",
+      "name": "General Information",
+      "icon": "ℹ️",
+      "faqs": [
+        {
+          "id": "gen-001",
+          "question": "What are the library hours?",
+          "answer": "The main library is generally open extended hours during the academic year, with reduced hours during breaks and holidays. Current hours are posted at the library entrance and on the library website. 24-hour study spaces may be available during exam periods.",
+          "keywords": ["library", "hours", "study", "books", "open", "closing time"]
+        },
+        {
+          "id": "gen-002",
+          "question": "How do I get a student ID card?",
+          "answer": "New students receive their ID card during orientation or by visiting the campus card office with proof of enrollment and a photo ID. Replacement cards can be obtained from the same office. Your student ID provides access to campus facilities, library services, and more.",
+          "keywords": ["student ID", "ID card", "campus card", "identification", "photo ID"]
+        },
+        {
+          "id": "gen-003",
+          "question": "What transportation options are available?",
+          "answer": "Campus transportation options may include shuttle services, bike-sharing programs, and public transit partnerships. Parking permits are available for students who drive. The transportation office provides information on routes, schedules, and parking regulations.",
+          "keywords": ["transportation", "shuttle", "bus", "parking", "bike", "commute", "transit"]
+        },
+        {
+          "id": "gen-004",
+          "question": "How do I contact academic advising?",
+          "answer": "Academic advisors can be reached through the advising center, which is typically located in the student services building. You can also schedule appointments through the student portal. Walk-in hours may be available during certain times.",
+          "keywords": ["advisor", "advising", "counselor", "academic advisor", "guidance", "mentor"]
+        },
+        {
+          "id": "gen-005",
+          "question": "What career services does the university offer?",
+          "answer": "The Career Services Center offers resume reviews, mock interviews, career counseling, job fairs, and internship placement assistance. Workshops on professional development are held throughout the semester. Alumni networking events are also organized regularly.",
+          "keywords": ["career", "job", "internship", "resume", "interview", "employment", "placement", "work"]
+        }
+      ]
+    }
+  ]
+}
